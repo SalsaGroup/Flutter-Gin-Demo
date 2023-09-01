@@ -1,0 +1,6 @@
+[submodule "GinServer"]
+	path = GinServer
+	url = git@github.com:SalsaGroup/Gin-Demo.git
+[submodule "FlutterApp"]
+	path = FlutterApp
+	url = git@github.com:SalsaGroup/Flutter-Demo.git
